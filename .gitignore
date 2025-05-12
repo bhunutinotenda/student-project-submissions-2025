@@ -1,0 +1,7 @@
+*.pt
+img/
+models/
+venv
+yolo.pt
+*.pt
+.vscode
